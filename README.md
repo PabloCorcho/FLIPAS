@@ -1,2 +1,2 @@
 # FLIPAS
-Facilities for IFS-Pipe3D AnalysiS
+FaciLities for IFS-Pipe3D AnalysiS
